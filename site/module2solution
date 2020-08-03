@@ -15,5 +15,10 @@
 <h3>Mutton</h3>
 <div>Indian curry dish that is prepared from Goat Meat (or sometimes Lamb meat ) and vegetables.[5] Although very popular in northern India, mainly in Bengal region, the dish is found in different variations across all states, countries and regions of South Asia.</div>
 
+<script id="__bs_script__">//<![CDATA[
+    document.write("<script async src='http://HOST:3000/browser-sync/browser-sync-client.js?v=2.26.7'><\/script>".replace("HOST", location.hostname));
+//]]></script>
+
+
 </body>
 </html>
