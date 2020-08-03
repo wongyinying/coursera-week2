@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head> 
+<meta charset="utf-8">
+<title>Our Menu</title>
+</head>
+
+<body>
+<h1>Chicken Rice</h1>
+<div>Hainanese chicken rice is a dish adapted from early Chinese immigrants originally from Hainan province in southern China. It is based on a well-known Hainanese dish called Wenchang chicken, which is one of four important Hainan dishes dating to the Qin dynasty.</div>
+
+<h2>Beef Stroganoff</h2>
+<div>According to the cookbook A Taste of Russia, the original beef Stroganoff recipe derived from a basic French mustard for seasoning beef, combined with a dollop of Russian sour cream, which Stroganoff's chef named after his benefactor.</div>
+
+<h3>Mutton</h3>
+<div>Indian curry dish that is prepared from Goat Meat (or sometimes Lamb meat ) and vegetables.[5] Although very popular in northern India, mainly in Bengal region, the dish is found in different variations across all states, countries and regions of South Asia.</div>
+
+</body>
+</html>
